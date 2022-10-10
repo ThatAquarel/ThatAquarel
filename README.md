@@ -15,13 +15,28 @@ I'm just a casual developper! 💻
 I love the entire process of problem solving and using programming as an efficient tool.
 
 ## 🔭 I’m currently working on
-- 🖥 [One-of-a-kind 32 bit RISC-V chip design](https://github.com/ThatAquarel/rv32i_dev)
-- 🤖 [Bleeding edge natural language processing algorithm](https://github.com/ThatAquarel/Aptitude)
-- 📚 [... while building tools to excel in schoolwork](https://github.com/ThatAquarel/DotStudy)
-
+- 🤖 [Open-source snow plowing robot with ROS](https://github.com/ThatAquarel/snowplower_mono)
+- 📚 [Notes and flash-cards management software](https://github.com/ThatAquarel/DotStudy)
 
 ## 🌱 I’m currently learning
-- 📈 Machine learning tools (Tensorflow & PyTorch)
+- 📈 The rust programming language
+
+## ⏰ Past projects
+### Computer Vision
+- 📸 [Social distancing detection from live-footage](https://github.com/ThatAquarel/SocialDistancePathfinder)
+- 🐦 [Warps camera perspective to that of a bird's eye](https://github.com/ThatAquarel/BirdEyeView)
+
+### Matrices & Linear Algebra
+- 📐 [Automated construction for Minecraft video game](https://github.com/ThatAquarel/CraftSlicer)
+- 📊 [Plotter conversion] https://github.com/ThatAquarel/OscilloscopeDisplay
+
+### Natural Language
+- 🤖 [Natural language processing for schoolwork](https://github.com/ThatAquarel/Aptitude)
+
+### Others
+- 🖥 [Custom 32 bit RISC-V architecture](https://github.com/ThatAquarel/rv32i_dev)
+- 🌊 [Irrigation system server daemon](https://github.com/ThatAquarel/IrrigationSystemServer)
+- 📲 [Irrigation system android app](https://github.com/ThatAquarel/IrrigationSystemApp)
 
 ## 💼 Technical skills
 - Backend
