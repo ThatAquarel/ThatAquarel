@@ -28,12 +28,15 @@ I love the entire process of problem solving and using programming as an efficie
 
 ### Matrices & Linear Algebra
 - 📐 [Automated construction for Minecraft video game](https://github.com/ThatAquarel/CraftSlicer)
-- 📊 [Plotter conversion] https://github.com/ThatAquarel/OscilloscopeDisplay
+- 📊 [Plotter conversion](https://github.com/ThatAquarel/OscilloscopeDisplay)
+
+### Tensorflow
+- 🤝 [People counter](https://github.com/ThatAquarel/IrRoomSensor)
 
 ### Natural Language
 - 🤖 [Natural language processing for schoolwork](https://github.com/ThatAquarel/Aptitude)
 
-### Others
+### Notable
 - 🖥 [Custom 32 bit RISC-V architecture](https://github.com/ThatAquarel/rv32i_dev)
 - 🌊 [Irrigation system server daemon](https://github.com/ThatAquarel/IrrigationSystemServer)
 - 📲 [Irrigation system android app](https://github.com/ThatAquarel/IrrigationSystemApp)
