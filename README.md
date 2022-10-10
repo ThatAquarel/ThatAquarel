@@ -16,12 +16,19 @@ I love the entire process of problem solving and using programming as an efficie
 
 ## 🔭 I’m currently working on
 - 🤖 [Open-source snow plowing robot with ROS](https://github.com/ThatAquarel/snowplower_mono)
+- 🖥 [Custom 32 bit RISC-V architecture](https://github.com/ThatAquarel/rv32i_dev)
 - 📚 [Notes and flash-cards management software](https://github.com/ThatAquarel/DotStudy)
 
 ## 🌱 I’m currently learning
 - 📈 The rust programming language
 
 ## ⏰ Past projects
+
+### Notable
+- 🖥 [Custom 32 bit RISC-V architecture](https://github.com/ThatAquarel/rv32i_dev)
+- 🌊 [Irrigation system server daemon](https://github.com/ThatAquarel/IrrigationSystemServer)
+- 📲 [Irrigation system android app](https://github.com/ThatAquarel/IrrigationSystemApp)
+
 ### Computer Vision
 - 📸 [Social distancing detection from live-footage](https://github.com/ThatAquarel/SocialDistancePathfinder)
 - 🐦 [Warps camera perspective to that of a bird's eye](https://github.com/ThatAquarel/BirdEyeView)
@@ -35,11 +42,6 @@ I love the entire process of problem solving and using programming as an efficie
 
 ### Natural Language
 - 🤖 [Natural language processing for schoolwork](https://github.com/ThatAquarel/Aptitude)
-
-### Notable
-- 🖥 [Custom 32 bit RISC-V architecture](https://github.com/ThatAquarel/rv32i_dev)
-- 🌊 [Irrigation system server daemon](https://github.com/ThatAquarel/IrrigationSystemServer)
-- 📲 [Irrigation system android app](https://github.com/ThatAquarel/IrrigationSystemApp)
 
 ## 💼 Technical skills
 - Backend
