@@ -1,4 +1,4 @@
-# Projects
+# Projects - [Back to Homepage](https://thataquarel.github.io/)
 
 ## 2025
 

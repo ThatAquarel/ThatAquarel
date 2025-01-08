@@ -1,4 +1,4 @@
-# Photos
+# Photos - [Back to Homepage](https://thataquarel.github.io/)
 
 <img src="https://raw.githubusercontent.com/ThatAquarel/ThatAquarel/main/docs/res/carrousel_1.png" style="border-radius: 15px;">
 
