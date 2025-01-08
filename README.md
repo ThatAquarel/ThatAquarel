@@ -2,7 +2,7 @@
 
 I'm a developper that integrates hardware to software! 💻
 
-![](res/projects.png) ![](res/photos.png) ![](res/acting.png)
+[![](res/projects.png)](https://thataquarel.github.io/ThatAquarel/projects) [![](res/photos.png)](https://thataquarel.github.io/ThatAquarel/photos) [![](res/acting.png)](https://thataquarel.github.io/ThatAquarel/acting)
 
 ## Skills
 
