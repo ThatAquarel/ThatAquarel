@@ -2,6 +2,17 @@
 
 ## 2025
 
+### [Alpha Particle Detector](https://github.com/ThatAquarel/hep/tree/main/alpha_particle)
+
+<div 
+    style="background-image:
+           url('https://raw.githubusercontent.com/ThatAquarel/hep/refs/heads/main/alpha_particle/docs/am241_scope.gif'); 
+    width:512px; 
+    height:512px; 
+    background-position:center;
+    background-size: cover;">&nbsp;
+</div>
+
 ### [Bendable Robotic Arm](https://github.com/ThatAquarel/compliant_mechanisms)
 
 <img src="https://raw.githubusercontent.com/ThatAquarel/compliant_mechanisms/main/docs/fig2a_arm_move.gif" style="border-radius: 15px;">
